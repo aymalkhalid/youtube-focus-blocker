@@ -1,8 +1,8 @@
-# 🚫 YouTube & Custom Site Blocker for Productivity
+# 🚫 YouTube & Website Blocker – Focus App for Productivity
 
 ![App Screenshot](readme_image.png)
 
-Stay focused and reclaim your time! Block YouTube and distracting sites with one click.
+Block YouTube and distracting sites system-wide with one click. Includes a motivation widget and Pomodoro timer. Boost your focus and reclaim your time!
 
 > **Quick Start:**  
 > Download and run `YouTubeStopper.exe` — no setup required!
