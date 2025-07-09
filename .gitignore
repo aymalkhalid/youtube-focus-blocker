@@ -72,6 +72,10 @@ tmp/
 # dist/
 # *.exe
 
+# Allow dist directory and main executable
+!dist/
+!dist/YouTubeStopper.exe
+
 # Keep important files that might be ignored by default
 !requirements.txt
 !*.spec
